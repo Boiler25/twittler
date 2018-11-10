@@ -1,5 +1,11 @@
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\app.component.js
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\app.component.js.map
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\models\note.js
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\models\note.js.map
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\note.service.js
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\note.service.js.map
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\components\note-getter\note-getter.component.js
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\components\note-getter\note-getter.component.js.map
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\app.module.js
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\app.module.js.map
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\environments\environment.js
@@ -18,9 +24,7 @@ C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\app
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\app.component.spec.js.map
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\environments\environment.prod.js
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\environments\environment.prod.js.map
-C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\models\note.js
-C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\models\note.js.map
-C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\note.service.js
-C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\note.service.js.map
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\note.service.spec.js
 C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\services\note.service.spec.js.map
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\components\note-getter\note-getter.component.spec.js
+C:\Users\We\source\repos\WebAPI\WebAPI\ClientApp\my-app\dist\out-tsc\src\app\components\note-getter\note-getter.component.spec.js.map

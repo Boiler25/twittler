@@ -9,13 +9,13 @@ export class NoteService {
 
 constructor(private httpClient: HttpClient) { }
 private url = 'http://localhost:50947';
-public getNotes(id?: number): Promise<Note> {
+public getNotes(id?: number): Promise<Note[]> {
 
   let params = new HttpParams();
   if (id) {
     params = params.append('id', id.toString());
 
-  return this.httpClient.get<Note>(this.url, { params }).toPromise();
+  return this.httpClient.get<Note[]>(this.url, { params }).toPromise();
   }
 }
 }
